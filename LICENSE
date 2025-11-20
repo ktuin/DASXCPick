@@ -1,6 +1,10 @@
 MIT License
 
+<<<<<<< HEAD
 Copyright (c) 2025 Katinka Tuinstra
+=======
+Copyright (c) 2025 Katinka Tuinstra, ETHZ Swiss Seismological Service
+>>>>>>> d1aca83edd1089477304d2e9c8d66955854bc65a
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
