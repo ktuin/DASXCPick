@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# builds
+build/
+dist/
+*.egg-info/
+
+
+example_data/picks/*.csv
